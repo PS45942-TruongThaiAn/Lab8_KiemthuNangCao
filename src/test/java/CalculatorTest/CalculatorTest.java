@@ -17,4 +17,5 @@ public class CalculatorTest {
 	public void testDivide() {
 		Assert.assertEquals(calc.divide(10, 2), 5.0);
 	}
+//	xin chào
 }
